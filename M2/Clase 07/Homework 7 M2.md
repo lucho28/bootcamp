@@ -19,4 +19,4 @@
             - La edad promedio de los alumnos de cada cohorte.<br>
 13. Elabora un listado de los alumnos que superan la edad promedio de Henry.
 
-![ORDEN](/_src/assets/SQL.PNG)
+![ORDEN](../_src/assets/SQL.PNG)
